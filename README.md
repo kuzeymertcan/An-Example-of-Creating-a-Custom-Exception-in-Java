@@ -1,0 +1,2 @@
+# An Example of Creating a Custom Exception in Java
+ This Java repository illustrates the creation and utilization of a custom exception (IllegalArgumentCustomException). The program manages worker information, allowing users to input names and salaries for three workers. It incorporates exception handling to ensure valid salary input, gracefully addressing cases where an invalid salary (less than or equal to zero) is entered.
